@@ -1,0 +1,30 @@
+.firsttt{
+    width:100%;
+    height:100vh;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.seconddd{
+    position:fixed;
+    top:30%;
+    left:35%;
+    background-color:white;
+    color: rgb(221, 58, 58);
+    height: 200px;
+    width:500px;
+    border:7px solid rgb(221, 58, 58);
+    border-radius: 20px;
+    
+    text-align: center;
+    font-size: 20px;
+}
+.btnnn{
+    color: white;
+  background-color: rgb(221, 58, 58);
+  border:2px solid rgb(221, 58, 58);
+  width:80px;
+  height:30px;
+  cursor: pointer;
+}
